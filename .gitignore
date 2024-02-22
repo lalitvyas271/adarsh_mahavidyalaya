@@ -1,0 +1,5 @@
+### Linux template
+.idea
+vendor
+app.ini
+/uploads

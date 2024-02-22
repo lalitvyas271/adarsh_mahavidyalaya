@@ -1,2 +1,3 @@
-# adarsh_mahavidyalaya
-PHP lad devi sharma pancholi adarsh sanskrit mahavidyalaya
+# acapedia-admin-web
+
+acapedia web admin developed in php CI

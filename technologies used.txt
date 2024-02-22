@@ -1,0 +1,9 @@
+technologies
+	BackEnd
+		MVC Codeigniter: 3
+
+	FrontEnd
+		Bootstrap: 
+		Jquery:
+		Datatable:
+		Sweetalert:
